@@ -4,17 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/mynameisxanax" target="blank"><img src="https://img.shields.io/twitter/follow/mynameisxanax?logo=twitter&style=for-the-badge" alt="mynameisxanax" /></a> </p>
 
-- ⚫ I’m currently working on [Personal Website](https://imxanax.github.io/)
+- ⚫ I’m currently working on [Vartech](https://imxanax.github.io/Vartech/)
 
-- 🟣 Also got this going on [Discord Bot](https://github.com/ImXanax/Blue)
+- 🟣 Also goofing around with my [Discord Bot](https://github.com/ImXanax/Blue)
 
-- 🔵 Also pulling my hair out for [To-Do App](https://imxanax.github.io/Notepad/note.html)
+- ⚫ Plling my hair out for [To-Do App](https://imxanax.github.io/Notepad/note.html)
 
-- 🌱 I’m currently learning **React Native , TypeScript , Sass**
-
-- 📫 How to reach me **merwwj@gmail.com**
-
-- ⚡ Fun fact **I'm depressed**
+- 🟣 I’m currently learning **React Native , TypeScript , Sass , NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
