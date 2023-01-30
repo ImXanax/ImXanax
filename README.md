@@ -8,7 +8,7 @@
 
 - 🟣 Also goofing around with my [Discord Bot](https://github.com/ImXanax/Blue)
 
-- ⚫ Plling my hair out for [To-Do App](https://imxanax.github.io/Notepad/note.html)
+- ⚫ Pulling my hair out for [To-Do App](https://imxanax.github.io/Notepad/note.html)
 
 - 🟣 I’m currently learning **React Native , TypeScript , Sass , NodeJS**
 
