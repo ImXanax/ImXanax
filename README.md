@@ -32,6 +32,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imxanax&theme=midnight-purple" alt="imxanax" />
 </p>
 
-<p align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q5cogcvz190sjtutx25q0s4kx&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=744ce1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</p>
+
