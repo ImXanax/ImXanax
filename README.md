@@ -21,6 +21,8 @@
 <a href="https://instagram.com/lmxanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lmxanax" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lmxanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lmxanax" height="30" width="40" /></a>
 <a href="https://discord.gg/imxanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xanax#3202" height="30" width="40" /></a>
+
+<a href="https://app.daily.dev/imxanax"><img src="https://api.daily.dev/devcards/v2/pTNda36F2EfOrjxoI1aHY.png?r=2ri&type=wide" width="652"/></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
